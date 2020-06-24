@@ -6,6 +6,8 @@ Welcome to the Adobe Stock Integration community project!
 
 ## Overview
 
+## Please do not ever merge this!!!!
+
 Adobe Stock Integration provides a searchable interface in the Magento Admin to explore, preview and use stock images inside PageBuilder or WYSIWYG content. Magento Admin user will be able to access Adobe Stock from Media Gallery, search for images, save watermarked image preview and try it inside the content. The right fit image can be licensed through Adobe. Watermarked preview images will be replaced with licensed file in media storage and across all CMS content currently using the watermarked preview.
 
 ## Documentation
